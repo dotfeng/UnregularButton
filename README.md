@@ -2,7 +2,7 @@
 
 unregular radiobutton
 
-the key point is 
+the key code is 
 
     int x = (int)event.getX();
     int y = (int)event.getY();
